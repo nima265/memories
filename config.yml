@@ -1,0 +1,235 @@
+baseURL: "https://csaiaum.github.io/memories"
+title: برد خاطرات انجمن علمی گروه کامپیوتر دانشگاه آزاد مشهد
+paginate: 5
+theme: PaperMod
+
+defaultContentLanguage: fa
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+
+languages:
+    # en:
+    #     languageName: "English"
+    #     weight: 1
+    #     menu:
+    #         main:
+    #             - name: Archive
+    #               url: archives
+    #               weight: 5
+    #             - name: Search
+    #               url: search/
+    #               weight: 10
+    #             - name: Tags
+    #               url: tags/
+    #               weight: 10
+    #             - name: Categories
+    #               url: categories/
+    #               weight: 10
+
+    # fr:
+    #     languageName: ":fr:"
+    #     languageAltTitle: French
+    #     weight: 2
+    #     title: PaperModL2
+    #     profileMode:
+    #         enabled: true
+    #         title: PaperMod
+    #         # imageUrl: "#"
+    #         # imageTitle: my image
+    #         # imageWidth: 120
+    #         # imageHeight: 120
+    #         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    #         buttons:
+    #             - name: Blog
+    #               url: posts
+    #             - name: Tags
+    #               url: tags
+        # menu:
+        #     main:
+        #         - name: Archive
+        #           url: archives/
+        #           weight: 5
+        #         - name: Tags
+        #           url: tags
+        #           weight: 10
+        #         - name: Categories
+        #           url: categories
+        #           weight: 10
+        #         - name: Series
+        #           url: series
+        #           weight: 10
+        #         - name: NullLink
+        #           url: "#"
+        #         - name: NullLink2
+        #           url: "#"
+        #         - name: NullLink3
+        #           url: "#"
+
+    fa:
+        languagedirection: rtl
+        weight: 1
+        menu:
+            main:
+                - name: آرشیو
+                  url: archives
+                  weight: 5
+                - name: تگ ها
+                  url: tags/
+                  weight: 10
+                - name: دسته بندی ها
+                  url: categories/
+                  weight: 20  
+                - name: جستجو
+                  url: search/
+                  weight: 30                        
+        title: برد خاطرات انجمن
+        # homeInfoParams:
+        #     Title: "Hi there \U0001F44B"
+        #     Content: Welcome to RTL layout
+        # menu:
+        #     main:
+        #         - name: Tags
+        #           url: tags
+        #           weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: " برد خاطرات انجمن علمی گروه کامپیوتر دانشگاه آزاد مشهد"
+    author: community
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    profileMode:
+        enabled: false
+        title: برد خاطرات انجمن
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: آرشیو
+              url: archives
+            - name: تگ ها
+              url: tags
+
+    homeInfoParams:
+        Title: "سلام \U0001F44B"
+        Content: >
+            به برد خاطرات انجمن علمی گروه کامپیوتر دانشگاه آزاد خوش آمدید 🌟
+
+            
+            اینجا خاطرات، تجربه ها و اتفاقات و روز های خوبی که برامون در انجمن رخ داده رو آرشیو می‌کنیم!
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/CSAIAUM"
+        # - name: KoFi
+        #   url: "https://ko-fi.com/adityatelange"
+        - name: RsS
+          url: "index.xml"
+
+    # editPost:
+    #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    #     Text: "Suggest Changes" # edit text
+    #     appendFilePath: true # to append file path to Edit link
+
+    # label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    # assets:
+    #     favicon: "<link / abs url>"
+    #     favicon16x16: "<link / abs url>"
+    #     favicon32x32: "<link / abs url>"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         # noClasses: false
+#         style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
+
+
