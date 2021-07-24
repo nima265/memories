@@ -13,7 +13,7 @@ TocOpen: false
 ShowBreadCrumbs: true
 math: true
 hideMeta: false
-searchHidden: true
+searchHidden: false
 ---
 
 اولین خاطره برد خاطرات انجمن علمی :)
