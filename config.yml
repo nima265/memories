@@ -1,7 +1,7 @@
 baseURL: "https://csaiaum.github.io/memories"
 title: برد خاطرات انجمن علمی گروه کامپیوتر دانشگاه آزاد مشهد
 paginate: 5
-theme: PaperMod
+theme: PaperMod-fa
 
 defaultContentLanguage: fa
 enableInlineShortcodes: true
