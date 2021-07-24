@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>وبینار on برد خاطرات انجمن</title>
+    <link>https://csaiaum.github.io/memories/categories/%D9%88%D8%A8%DB%8C%D9%86%D8%A7%D8%B1/</link>
+    <description>Recent content in وبینار on برد خاطرات انجمن</description>
+    <image>
+      <url>https://csaiaum.github.io/memories/papermod-cover.png</url>
+      <link>https://csaiaum.github.io/memories/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/memories/categories/%D9%88%D8%A8%DB%8C%D9%86%D8%A7%D8%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>گیت هاب، اوپن سورس و اولین پستِ برد</title>
+      <link>https://csaiaum.github.io/memories/posts/firstpost-github-opensource/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/memories/posts/firstpost-github-opensource/</guid>
+      <description>گیت هاب، اوپن سورس و اولین پستِ برد</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on برد خاطرات انجمن</title>
+    <link>https://csaiaum.github.io/memories/tags/</link>
+    <description>Recent content in Tags on برد خاطرات انجمن</description>
+    <image>
+      <url>https://csaiaum.github.io/memories/papermod-cover.png</url>
+      <link>https://csaiaum.github.io/memories/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/memories/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>اوپن سورس</title>
+      <link>https://csaiaum.github.io/memories/tags/%D8%A7%D9%88%D9%BE%D9%86-%D8%B3%D9%88%D8%B1%D8%B3/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/memories/tags/%D8%A7%D9%88%D9%BE%D9%86-%D8%B3%D9%88%D8%B1%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>وبینار</title>
+      <link>https://csaiaum.github.io/memories/tags/%D9%88%D8%A8%DB%8C%D9%86%D8%A7%D8%B1/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/memories/tags/%D9%88%D8%A8%DB%8C%D9%86%D8%A7%D8%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>گیت هاب</title>
+      <link>https://csaiaum.github.io/memories/tags/%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/memories/tags/%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
