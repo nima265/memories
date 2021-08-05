@@ -20,9 +20,14 @@ searchHidden: false
 
 امروز پنجشنبه ۱۴ مرداد سال ۱۴۰۰
 
+این اولین تغییری هست که داخل برد انجمن ایجاد می‌کنیم 
+به امید پروژه های اوپن سورس بیشتر :)))
+
 <!--more-->
 
 ## وبینار
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<p><span class="nowrap"><span class="emojify">😍😍😍</span> <code>:see_no_evil:</code></span>
 <br>
+
+
